@@ -1,2 +1,2 @@
-var = int(input())
-print(var)
+n = int(input())
+print(n)

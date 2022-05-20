@@ -1,2 +1,2 @@
-n = int(input())
-print(n, n, n)
+t = int(input())
+print(t, t, t)

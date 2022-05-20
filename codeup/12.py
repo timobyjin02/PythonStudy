@@ -1,2 +1,2 @@
-var = float(input())
-print(var)
+n = float(input())
+print(n)

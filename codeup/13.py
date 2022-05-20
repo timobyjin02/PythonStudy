@@ -1,2 +1,2 @@
-var = list(map(int, input().split()))
-print(var[0], var[1])
+n = list(map(int, input().split()))
+print(n[0], n[1])

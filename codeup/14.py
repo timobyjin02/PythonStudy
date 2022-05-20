@@ -1,2 +1,2 @@
-var = input().split()
-print(var[1], var[0])
+n = input().split()
+print(n[1], n[0])

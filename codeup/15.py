@@ -1,2 +1,2 @@
-n = round(float(input()))
-print(n, n, n)
+t = round(float(input()))
+print(t, t, t)

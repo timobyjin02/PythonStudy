@@ -1,2 +1,2 @@
-a, b = input().split(':')
-print('{}:{}'.format(a, b))
+x, y = input().split(':')
+print('{}:{}'.format(x, y))
