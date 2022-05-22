@@ -1,5 +1,5 @@
-string = input().split('.')
+s = input().split('.')
 print('''\
 {}
 {}
-'''.format(string[0], string[1]))
+'''.format(s[0], s[1]))

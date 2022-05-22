@@ -1,2 +1,2 @@
-h, m, s = input().split(':')
+a, m, s = input().split(':')
 print(m)

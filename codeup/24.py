@@ -1,3 +1,3 @@
-string = input()
-for i in range(len(string)):
-    print("'{}'".format(string[i]))
+s = input()
+for i in range(len(s)):
+    print("'{}'".format(s[i]))

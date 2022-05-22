@@ -1,9 +1,7 @@
 from re import M
-
-
-y, m, d = input().split('.')
-if len(m) == 1:
-    m = '0' + m
-if len(d) == 1:
-    d = '0' + d
-print('{},{},{}'.format(y, m, d))
+a, b, c = input().split('.')
+if len(b) == 1:
+    b = '0' + b
+if len(c) == 1:
+    c = '0' + c
+print('{},{},{}'.format(a, b, c))
