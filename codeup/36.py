@@ -1,2 +1,2 @@
-n = ord(input())
-print(n)
+s = ord(input())
+print(s)
