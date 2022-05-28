@@ -1,3 +1,3 @@
 n = int(input())
-rand = map(int, input().split())
-print(min(rand))
+num = list(map(int, input().split()))
+print(min(num))

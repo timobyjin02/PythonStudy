@@ -1,4 +1,4 @@
 n = int(input())
-rand = list(map(int, input().split()))
-rand.reverse()
-print(*rand)
+num = list(map(int, input().split()))
+num.reverse()
+print(*num)
