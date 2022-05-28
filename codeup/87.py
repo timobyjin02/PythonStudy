@@ -1,7 +1,7 @@
 n = int(input())
-res = 0
+total = 0
 i = 1
-while res < n:
-    res += i
+while total < n:
+    total += i
     i += 1
-print(res)
+print(total)
